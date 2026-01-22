@@ -1,0 +1,18 @@
+#boxchangeId{
+    padding: 50px;
+    color: blue;
+    background-color: yellowgreen;
+    margin-bottom: 2rem;
+    font-size: large;
+    font-weight: 600;
+}
+
+button{
+    padding: 15px;
+    background-color: red;
+    border: none;
+    border-radius: 15px;
+    color: white;
+    font-size: large;
+    font-weight: 600;
+}
